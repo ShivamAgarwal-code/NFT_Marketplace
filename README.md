@@ -1,9 +1,9 @@
-## L2 ROLLATHON - Best use of IPFS and/or Filecoin in your L2 project
+## Web3 Infinity Hackathon - Best use of IPFS and/or Filecoin in our project
 
 ### Challenge Description
 #### Projects that use IPFS for content-addressing and/or Filecoin for decentralized, persistent storage. (Submissions that use either technology indirectly via NFT.storage, web3.storage, Estuary.tech, Textile, or other tooling also qualify). All types of projects are welcome and we welcome your creativity. Feel free to browse past winners here for inspiration.
 
-<!-- [link to hackathon](https://gitcoin.co/issue/ipfs-and-filecoin/hackathons-bounties/6/100028834) -->
+
 
 ### TicketVast - NFT Ticketing Marketplace
 
@@ -45,11 +45,7 @@ Our platform enables frontend teams to do their best work.
 
 #### Live website: [TicketVast](https://ticketvastnft.vercel.app/)
 
-#### GitHub Repository: [github.com/SabeloMkhwanazi](https://github.com/SabeloMkhwanzi/NFT_Ticket_Marketplac)
-
-#### Demo video: [video](https://youtu.be/3bbp0VC-MlM)
-
-#### Project Start: Date: 13 -22 May, 2022
+#### GitHub Repository: [github.com/ShivamAgarwal-code](https://github.com/ShivamAgarwal-code/NFT_Ticket_Marketplace.git)
 
 #### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
 
