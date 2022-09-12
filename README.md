@@ -60,7 +60,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 First, clone the repo with the following git command:
 
 ```bash
-git clone https://github.com/SabeloMkhwanzi/NFT_Ticket_Marketplacy
+git clone https://github.com/ShivamAgarwal-code/NFT_Ticket_Marketplace.git
 ```
 
 Second, open a terminal in the root directory of the project and run:
