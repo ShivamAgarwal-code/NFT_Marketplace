@@ -5,7 +5,7 @@
 
 
 
-### TicketVast - NFT Ticketing Marketplace
+### NFT Ticketing Marketplace
 
 ### Project Description
 
@@ -43,11 +43,11 @@ Our platform enables frontend teams to do their best work.
 
 ![HomePage](https://github.com/SabeloMkhwanzi/NFT_Ticket_Marketplace/blob/main/public/TicketVast-NFT-MakerPlace-HomePage1.jpg)
 
-#### Live website: [TicketVast](https://ticketvastnft.vercel.app/)
+#### Live website: [NFT Marketplace](https://nft2-marketplace.vercel.app/)
 
 #### GitHub Repository: [github.com/ShivamAgarwal-code](https://github.com/ShivamAgarwal-code/NFT_Ticket_Marketplace.git)
 
-#### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
+#### Wallet Address: 0xb6dFB99aeDCe0D4fE6636e4814db1a7024dFB662
 
 #### Basic Sample Hardhat Setup
 
