@@ -91,4 +91,4 @@ yarn dev
 
 Happy Hacking!😊
 
-## TicketVast - NFT Ticket Marketplace
+## NFT Ticket Marketplace
