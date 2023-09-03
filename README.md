@@ -45,7 +45,7 @@ Our platform enables frontend teams to do their best work.
 
 #### Live website: [NFT Marketplace](https://nft2-marketplace.vercel.app/)
 
-#### GitHub Repository: [github.com/ShivamAgarwal-code](https://github.com/ShivamAgarwal-code/NFT_Ticket_Marketplace.git)
+#### GitHub Repository: [github.com/ShivamAgarwal-code](https://github.com/ShivamAgarwal-code/NFT_Marketplace.git)
 
 #### Wallet Address: 0xb6dFB99aeDCe0D4fE6636e4814db1a7024dFB662
 
