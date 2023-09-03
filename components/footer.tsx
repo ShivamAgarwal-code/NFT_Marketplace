@@ -132,18 +132,18 @@ export default function SmallCentered() {
             letterSpacing={2}
             color={useColorModeValue("purple.600", "white")}
           >
-            © 2022 Made with ❤ by Sabelo
+            © 2023 Made with ❤ by Shivam
           </Text>
           <Stack direction={"row"} spacing={6}>
             <SocialButton
               label={"Twitter"}
-              href={"https://twitter.com/SabeloMkhwanaz"}
+              href={"https://twitter.com/shiv2002Agarwal"}
             >
               <FaTwitter />
             </SocialButton>
             <SocialButton
               label={"Github"}
-              href={"https://github.com/SabeloMkhwanzi"}
+              href={"https://github.com/ShivamAgarwal-code"}
             >
               <FaGithub />
             </SocialButton>
